@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "makefile.compileCommandsPath": ".vscode/compile_commands.json",
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}\\.vscode\\compile_commands.json",
+    "cortex-debug.armToolchainPath": "C:\\PROGRAM FILES (X86)\\ARM GNU TOOLCHAIN ARM-NONE-EABI\\13.2 REL1\\BIN",
+    "cortex-debug.openocdPath": "C:\\MSYS64\\MINGW64\\BIN\\OPENOCD.EXE",
+    "stm32-for-vscode.makePath": false,
+    "C_Cpp.errorSquiggles": "disabled"
+}
