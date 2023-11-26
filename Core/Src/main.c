@@ -88,6 +88,7 @@ int main(void)
   
   /* USER CODE BEGIN 2 */
   int a = 0;
+  
   /* USER CODE END 2 */
 
   /* Infinite loop */
